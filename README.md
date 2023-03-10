@@ -1,3 +1,6 @@
+
+![](Activity.gif)
+
 # Words App
 
 This folder contains the source code for the Words app codelab.
